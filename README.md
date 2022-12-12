@@ -7,3 +7,6 @@
 ⌨️ **Web, Swift, Python**
 
 🥐 Discord username : C22#9618
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c22dev)](https://github.com/anuraghazra/github-readme-stats)
