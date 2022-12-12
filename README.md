@@ -1,4 +1,4 @@
-### Hello Earth !
+### Hello Earth 🌍 !
 
 🇨🇭 Switzerland Developer
 
